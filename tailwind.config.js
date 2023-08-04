@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        Montserrat: "Montserrat",
+      },
       colors: {
         'nav-border': '#EBEAEA',
         'light-white': '#FAFAFB',
